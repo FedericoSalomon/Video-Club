@@ -37,6 +37,7 @@ function Inicio() {
 
     do {
         console.clear();
+        console.log("-----ESTO VA SOLO EN LA RAMA MEJORA------");
         console.log("-----MENU PRINCIPAL------");
         console.log("-1- Agregar Clientes");
         console.log("--------------------");
