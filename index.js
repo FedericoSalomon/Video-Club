@@ -37,6 +37,7 @@ function Inicio() {
 
     do {
         console.clear();
+        console.log("-----VIDEOCLUB------");
         console.log("-----MENU PRINCIPAL------");
         console.log("-1- Agregar Clientes");
         console.log("--------------------");
