@@ -37,7 +37,7 @@ function Inicio() {
 
     do {
         console.clear();
-        console.log("-----Menu-Principal------");
+        console.log("-----MENU PRINCIPAL------");
         console.log("-1- Agregar Clientes");
         console.log("--------------------");
         console.log("-2- Mostrar Users");
